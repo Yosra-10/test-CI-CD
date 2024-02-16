@@ -1,0 +1,13 @@
+{"timestamp":381799,"category":"nimbus_events","name":"unenrollment","extra":{"branch":"control","reason":"pref-variable-missing","experiment":"mixed-content-level-2-roll-out-release-113"}}
+{"timestamp":384210,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"extensions-migration-in-import-wizard-116-rollout","branch":"control","experiment_type":"rollout"}}
+{"timestamp":384660,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","branch":"control","experiment":"mixed-content-level-2-roll-out-release-113"}}
+{"timestamp":384765,"category":"nimbus_events","name":"enrollment","extra":{"branch":"treatment-a","experiment":"recommend-add-ons-staff-pick","experiment_type":"nimbus"}}
+{"timestamp":384947,"category":"nimbus_events","name":"validation_failed","extra":{"feature":"accessibilityCache","experiment":"next-generation-accessibility-engine-powering-screen-readers","reason":"invalid-feature"}}
+{"timestamp":407099,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"spocs-endpoint-rollout-release","experiment_type":"rollout","branch":"control"}}
+{"timestamp":407265,"category":"nimbus_events","name":"unenrollment","extra":{"branch":"treatment-a","experiment":"recommend-add-ons-staff-pick","reason":"recipe-not-seen"}}
+{"timestamp":407273,"category":"nimbus_events","name":"unenrollment","extra":{"experiment":"mixed-content-level-2-roll-out-release-113","reason":"recipe-not-seen","branch":"control"}}
+{"timestamp":407284,"category":"nimbus_events","name":"unenrollment","extra":{"branch":"control","reason":"recipe-not-seen","experiment":"serp-ad-telemetry-rollout"}}
+{"timestamp":407291,"category":"nimbus_events","name":"validation_failed","extra":{"feature":"accessibilityCache","reason":"invalid-feature","experiment":"next-generation-accessibility-engine-powering-screen-readers"}}
+{"timestamp":22006825,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"next-generation-accessibility-engine-powering-screen-readers","feature":"accessibilityCache","reason":"invalid-feature"}}
+{"timestamp":40007400,"category":"nimbus_events","name":"validation_failed","extra":{"feature":"accessibilityCache","experiment":"next-generation-accessibility-engine-powering-screen-readers","reason":"invalid-feature"}}
+{"timestamp":53487486,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","experiment":"next-generation-accessibility-engine-powering-screen-readers","feature":"accessibilityCache"}}

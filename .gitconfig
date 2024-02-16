@@ -1,0 +1,6 @@
+[user]
+	email = yosra_habli@outlook.com
+	name = Yosra-10
+[safe]
+	directory = /home/yosra/testingjenkins/curriculum-app
+	directory = /home/yosra/testingjenkins/curriculum-app/curriculum-back
